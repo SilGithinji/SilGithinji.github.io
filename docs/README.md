@@ -1,4 +1,4 @@
-# **Hunters Maze Game Portfolio**
+# **Hunters Maze Game**
 
 **Introduction**
 
